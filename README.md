@@ -10,11 +10,11 @@
 * [Revenye Prediction](https://github.com/onurcakili/Data-Science-Repository/blob/main/01_customer_analytics/revenue_prediction_seg.ipynb)
 * 
 
-### 2. Statistical Analysis
-* [Tip_Calc_Corr_Analysis](https://github.com/onurcakili/Data-Science-Repository/blob/main/02_statistical_analysis/06_Tip_Calc_Correlation_Analysis.ipynb)
-* [Web Time T_Test](https://github.com/onurcakili/Data-Science-Repository/blob/main/02_statistical_analysis/07_Web_Time_T_Test.ipynb)
-* [Performance Measurement](https://github.com/onurcakili/Data-Science-Repository/blob/main/02_statistical_analysis/08_Performance_Measurement.ipynb)
-* [WebSite_Content_Variance](https://github.com/onurcakili/Data-Science-Repository/blob/main/02_statistical_analysis/10_WebSite_Content_Variance.ipynb)
+### 2. [Statistical Analysis](https://github.com/onurcakili/Data-Science-Repository/tree/main/02_statistical_analysis)
+* [Tip_Calc_Corr_Analysis](https://github.com/onurcakili/Data-Science-Repository/blob/main/02_statistical_analysis/tip_calc_corr_analysis.ipynb)
+* [Web Time T_Test](https://github.com/onurcakili/Data-Science-Repository/blob/main/02_statistical_analysis/web_time_t_test.ipynb)
+* [Performance Measurement](https://github.com/onurcakili/Data-Science-Repository/blob/main/02_statistical_analysis/performance_measurement.ipynb)
+* [WebSite_Content_Variance](https://github.com/onurcakili/Data-Science-Repository/blob/main/02_statistical_analysis/website_content_variance.ipynb)
 
 ### 3. Machine Learning
 * [Revenue Prediction Project](https://github.com/onurcakili/Data-Science-Repository/blob/main/03_machine_learning/02_Revenue_Prediction_Segmentation.ipynb)
