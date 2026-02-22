@@ -16,14 +16,17 @@
 * [Performance Measurement](https://github.com/onurcakili/Data-Science-Repository/blob/main/02_statistical_analysis/performance_measurement.ipynb)
 * [WebSite_Content_Variance](https://github.com/onurcakili/Data-Science-Repository/blob/main/02_statistical_analysis/website_content_variance.ipynb)
 
-### 3. Machine Learning
-* [Revenue Prediction Project](https://github.com/onurcakili/Data-Science-Repository/blob/main/03_machine_learning/02_Revenue_Prediction_Segmentation.ipynb)
-* [ML Model Performance](https://github.com/onurcakili/Data-Science-Repository/blob/main/03_machine_learning/09_ML_Model_Performance.ipynb)
+### 3. [Machine Learning](https://github.com/onurcakili/Data-Science-Repository/tree/main/03_machine_learning)
+* [Machine Learning 101](https://github.com/onurcakili/Data-Science-Repository/tree/main/03_machine_learning/Makine%20%C3%96%C4%9Frenmesi%20101)
+* [Machine Learning 201](https://github.com/onurcakili/Data-Science-Repository/tree/main/03_machine_learning/Makine%20%C3%96%C4%9Frenmesi%20201)
+  
 
-### 4. Cloud & Big Data
-* [Big Query Google Cloud](https://github.com/onurcakili/Data-Science-Repository/blob/main/04_cloud_bigdata/03_Big_Query_Google_Cloud.ipynb)
 
-### 5. Python for Data Science
+
+### 4. [Cloud & Big Data](https://github.com/onurcakili/Data-Science-Repository/tree/main/04_cloud_bigdata)
+* [Big Query Google Cloud](https://github.com/onurcakili/Data-Science-Repository/blob/main/04_cloud_bigdata/bigquery_google_cloud.ipynb)
+
+### [5. Python for Data Science](https://github.com/onurcakili/Data-Science-Repository/tree/main/05_python_for_data_science)
 * [Python](https://github.com/onurcakili/Data-Science-Repository/tree/main/05_python_for_data_science/01_Python)
 * [Data Manipulation](https://github.com/onurcakili/Data-Science-Repository/tree/main/05_python_for_data_science/02_Data_Manipulation)
 * [Data Visualization](https://github.com/onurcakili/Data-Science-Repository/tree/main/05_python_for_data_science/03_Data_Visualization)
@@ -33,17 +36,15 @@
 * [Machine Learning](https://github.com/onurcakili/Data-Science-Repository/tree/main/05_python_for_data_science/07_Machine_Learning)
 
 
-### 5.2 Python 
-*
-*
-*
+### [5.2 Python](https://github.com/onurcakili/Python-Projects)
+*[APIs Projects](https://github.com/onurcakili/Python-Projects/tree/main/APIs_projects)
+*[Basic Projects](https://github.com/onurcakili/Python-Projects/tree/main/basic_projects)
 
 
-
-### 6. SQL
+### [6. SQL](https://github.com/onurcakili/SQL)
 * MSSQL Queries
 * MSSQL Database
 * MSSQL DBMS
 
-### 7. Data Sources
+### [7. Data Sources](https://github.com/onurcakili/Data-Science-Repository/tree/main/00_data_source)
 * [Data Source](https://github.com/onurcakili/Data-Science-Repository/tree/main/00_data_source)
