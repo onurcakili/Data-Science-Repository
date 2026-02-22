@@ -37,8 +37,8 @@
 
 
 ### [5.2 Python](https://github.com/onurcakili/Python-Projects)
-*[APIs Projects](https://github.com/onurcakili/Python-Projects/tree/main/APIs_projects)
-*[Basic Projects](https://github.com/onurcakili/Python-Projects/tree/main/basic_projects)
+* [APIs Projects](https://github.com/onurcakili/Python-Projects/tree/main/APIs_projects)
+* [Basic Projects](https://github.com/onurcakili/Python-Projects/tree/main/basic_projects)
 
 
 ### [6. SQL](https://github.com/onurcakili/SQL)
